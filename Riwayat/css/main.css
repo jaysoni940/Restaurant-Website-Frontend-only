@@ -1,0 +1,22 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+.left {
+  display: inline-block;
+  width: 50%;
+  height: 100vh;
+  background: darkcyan;
+}
+
+img {
+  -webkit-animation-duration: 3s;
+          animation-duration: 3s;
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+/*# sourceMappingURL=main.css.map */
